@@ -1,0 +1,23 @@
+# common #
+*.log
+logs/
+tmp/
+
+# nodejs #
+node_modules/
+public/gen
+
+# java #
+/plugin.xml
+web-app/WEB-INF/classes/
+.settings/
+target/
+target-eclipse/
+grails-*.zip
+*.war
+.link_to_grails_plugins/
+
+# other #
+*.swp
+.DS_Store
+/data/db
