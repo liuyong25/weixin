@@ -1,5 +1,7 @@
 # 微信开发平台API
 
+# **已迁移到新的地址，请用： https://github.com/node-webot/weixin-robot**
+
 ## 特性
 ### 公众平台
 * 支持接收: 文本消息,图文消息,地址消息
